@@ -27,7 +27,9 @@ public class Mainservlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("mainservlet");
+
 		System.out.println("충돌테스트");
+
 	}
 
 	/**
